@@ -4,8 +4,7 @@
 
 This project utilizes Time series techniques to forecast electricity demand based on historical consumption data and other relevant features. The notebook guides the user through data loading, preprocessing, model training, prediction, and visualization of results.
 
-##Dataset:
-Electricity consumption UK 2009-2024
+Dataset:Electricity consumption UK 2009-2024
 
 ### Features
 
